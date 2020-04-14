@@ -1,4 +1,4 @@
-# everytalk
+# pwa-nuxt-vuetify
 
 > Nuxt.js project
 
